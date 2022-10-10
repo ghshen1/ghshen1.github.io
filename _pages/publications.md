@@ -14,8 +14,8 @@ author_profile: true
 - - -
 # Preprints
 ======
-{
+
 {% for post in site.publications.preprints reversed %}
   {% include archive-single1.html %}
 {% endfor %}
-}
+
