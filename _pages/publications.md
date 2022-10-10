@@ -3,7 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
 
 <!---
 {% if author.googlescholar %}
@@ -18,9 +17,10 @@ author_profile: true
   {% include archive-single1.html %}
 {% endfor %}
 
----
+
 Preprints
 ======
+
 {% include base_path %}
 
 {% for post in site.publications.preprints reversed %}
