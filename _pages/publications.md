@@ -11,9 +11,8 @@ author_profile: true
   {% include archive-single1.html %}
 {% endfor %}
 
----
-Preprints
-======
+
+# Preprints
 
 {% include base_path %}
 
