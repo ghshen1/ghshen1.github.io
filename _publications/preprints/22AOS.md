@@ -2,7 +2,7 @@
 title: "Deep Nonparametric Regression on Approximate Low-dimensional Manifolds"
 collection: publications
 permalink: /publication/22AOS
-date: 2022-01-02
+date: 1999-01-02
 venue: 'Annals of Statistics'
 link: 'https://arxiv.org/abs/2104.06708'
 #paperurl: 'https://doi.org/10.1093/biomet/asac027'
