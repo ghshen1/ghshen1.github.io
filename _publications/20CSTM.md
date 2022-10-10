@@ -2,7 +2,7 @@
 title: "Efficient fused learning for distributed imbalanced data"
 collection: publications
 permalink: /publication/20CSTM
-date: 2022-05-12
+date: 2020-05-12
 venue: 'Communications in Statistics - Theory and Methods'
 #link: 'https://doi.org/10.1080/03610926.2020.1759641'
 #paperurl: 'https://doi.org/10.1080/03610926.2020.1759641'
