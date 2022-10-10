@@ -3,13 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
-<!---
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
--->
-
+---
 (Equal contribution <sup> # </sup>, Corresponsding authors*.)
 
 {% include base_path %}
@@ -17,7 +11,7 @@ author_profile: true
   {% include archive-single1.html %}
 {% endfor %}
 
-
+---
 Preprints
 ======
 
@@ -26,3 +20,4 @@ Preprints
 {% for post in site.publications.preprints reversed %}
   {% include archive-single1.html %}
 {% endfor %}
+---
