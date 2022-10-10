@@ -15,4 +15,10 @@ author_profile: true
   {% include archive-single1.html %}
 {% endfor %}
 
+Preprints
+======
+{% include base_path %}
 
+{% for post in site.Preprints reversed %}
+  {% include archive-single1.html %}
+{% endfor %}
