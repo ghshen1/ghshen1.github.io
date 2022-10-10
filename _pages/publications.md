@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected/Recent Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -17,6 +17,8 @@ author_profile: true
 
 ---
 Preprints
+
+{% include base_path %}
 
 {% for post in site.Preprints reversed %}
   {% include archive-single.html %}
