@@ -22,6 +22,6 @@ Preprints
 ======
 {% include base_path %}
 
-{% for post in site.preprints reversed %}
+{% for post in site.publications.preprints reversed %}
   {% include archive-single1.html %}
 {% endfor %}
