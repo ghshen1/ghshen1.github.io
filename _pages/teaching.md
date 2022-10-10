@@ -23,6 +23,6 @@ title: "Teaching"
 - Fall 2020		STAT5107   Discrete Data Analysis
 - Spring 2020		STAT1011  Introduction to Statistics
 - Fall 2019		STAT4003  	Statistical Inference
--Spring 2019		STAT1011     	Introduction to Statistics
--Fall 2018		STAT4003  	Statistical Inference
+- Spring 2019		STAT1011     	Introduction to Statistics
+- Fall 2018		STAT4003  	Statistical Inference
 
