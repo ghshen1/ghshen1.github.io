@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shen Guohao"
+title                    : "Guohao Shen"
 title_separator          : "-"
-name                     : &name "Shen Guohao"
-description              : &description "personal description"
+name                     : &name "Guohao Shen"
+description              : &description "Machine Learning, Statistics"
 url                      : https://ghshen1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ghshen1/ghshen1.github.io"
