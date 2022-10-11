@@ -5,15 +5,16 @@ title: "Teaching"
 
 ## @The Hong Kong Polytechnic University
 
-<!-- ## Current -->
 
 ### Lecturer
-- Spring 2023		AMA564	 Deep Learning (Scheduled)
+- 			 
+
+| Semester       | Code     |     Course                                                   |
+| --------       | ------   | ------------------------------------------------------------ |
+| Spring 2023    | AMA564   | Deep Learning (Scheduled)                                    |
 
 
-<!-- ## Past -->
 
-<!-- <br/> -->
 
 ## @The Chinese Univeristy of Hong Kong
 ### Teaching Assistant
