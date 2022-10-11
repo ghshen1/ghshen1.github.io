@@ -12,8 +12,7 @@ author_profile: true
 {% endfor %}
 
 - - -
-# Preprints
-======
+## Preprints
 
 {% for post in site.publications.preprints reversed %}
   {% include archive-single1.html %}
