@@ -1,5 +1,5 @@
 ---
-title: "Deep Nonparametric Regression on Approximate Low-dimensional Manifolds"
+title: "(Preprint)Deep Nonparametric Regression on Approximate Low-dimensional Manifolds"
 collection: publications
 permalink: /publication/22AOS
 date: 1999-01-02
