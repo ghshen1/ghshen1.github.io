@@ -17,5 +17,5 @@ My research interests are in general statistical machine learning and nonparamet
 To contact me, click the “email” icon on the left panel.
 
 ---
-<a href="https://clustrmaps.com/site/1bqss"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GsvWNzRl5r8DoRdWKfjOWXDZrRGYfPHdhtlcaHLoIoc&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1bqss'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=GsvWNzRl5r8DoRdWKfjOWXDZrRGYfPHdhtlcaHLoIoc&co=ffffff&ct=808080'/></a>
 ---
