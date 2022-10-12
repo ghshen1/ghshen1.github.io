@@ -3,7 +3,7 @@ title: "@The Hong Kong Polytechnic University"
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/PolyU
-venue: "University 1, Department"
+venue: "The Hong Kong Polytechninc Univeristy, Department of Applied Mathematics"
 date: 2022-03-31
 location: "Hong Kong"
 ---
