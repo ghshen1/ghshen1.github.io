@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, Sichuan University, June 2018
-* Ph.D in Statistics, The Chinese University of Hong Kong, March 2022
+* Ph.D. in Statistics, The Chinese University of Hong Kong, March 2022
     * Supervisor: Professor [Yuanyuan Lin](https://www.sta.cuhk.edu.hk/peoples/ylin/)
 
 Work experience
