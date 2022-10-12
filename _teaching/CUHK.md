@@ -6,9 +6,9 @@ permalink: /teaching/CUHK
 venue: "The Chinese Univeristy of Hong Kong, Department of Statistics"
 date: 2018-09-01
 location: "Hong Kong"
+---
 
-
-## @The Chinese Univeristy of Hong Kong
+### Teaching Assistant
 
 | Semester       | Code       |     Course                                                 |
 | --------       | ------     | ---------------------------------------------------------- |
