@@ -19,3 +19,6 @@ Recently, I have been studying statistical learning theories for deep learning f
 ---
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GsvWNzRl5r8DoRdWKfjOWXDZrRGYfPHdhtlcaHLoIoc&cl=ffffff&w=a"></script>
 ---
+---
+<a href="https://clustrmaps.com/site/1bqss"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GsvWNzRl5r8DoRdWKfjOWXDZrRGYfPHdhtlcaHLoIoc&cl=ffffff" /></a>
+---
