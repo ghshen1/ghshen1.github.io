@@ -1,5 +1,5 @@
 ---
-title: "Estimation of Non-Crossing Quantile Regression Process with Deep ReQU Neural Networks"
+title: "(Preprint)Estimation of Non-Crossing Quantile Regression Process with Deep ReQU Neural Networks"
 collection: publications
 permalink: /publication/22JMLR
 date: 1999-01-03
