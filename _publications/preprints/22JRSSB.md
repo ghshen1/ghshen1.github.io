@@ -1,5 +1,5 @@
 ---
-title: "Robust Nonparametric Regression with Deep Neural Networks"
+title: "(Preprint)Robust Nonparametric Regression with Deep Neural Networks"
 collection: publications
 permalink: /publication/22JRSSB
 date: 1999-01-10
