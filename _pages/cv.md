@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* April 2022: Research Assistant Professor
-  * The Hong Kong Polytechnic University
+* April 2022: The Hong Kong Polytechnic University
+  * Research Assistant Professor
 
 
 Publications
