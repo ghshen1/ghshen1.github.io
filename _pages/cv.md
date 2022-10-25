@@ -40,5 +40,6 @@ Teaching
 Service
 ======
 Reviewer for
-* Journal of the American Statistical Association 
-* Computational Statistics & Data Analysis 
+* Journal of the Royal Statistical Society: Series B
+* Journal of the American Statistical Association
+* Computational Statistics & Data Analysis
