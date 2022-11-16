@@ -17,3 +17,9 @@ author_profile: true
   {% include archive-single1.html %}
 {% endfor %}
 
+Service
+======
+Reviewer for
+* Journal of the Royal Statistical Society: Series B
+* Journal of the American Statistical Association
+* Computational Statistics & Data Analysis
