@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(Equal contribution <sup> # </sup>, Corresponsding authors*.)
+(Equal contribution <sup> # </sup>, Corresponding authors*.)
 
 {% include base_path %}
 {% for post in site.publications reversed %}
