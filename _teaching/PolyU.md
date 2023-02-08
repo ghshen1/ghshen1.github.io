@@ -12,6 +12,6 @@ location: "Hong Kong"
 
 | Semester       | Code      |     Course                                                   |
 | --------       | ------    | ------------------------------------------------------------ |
-| Spring 2023    | AMA 564   | Deep Learning (Scheduled)                                    |
+| Spring 2023    | AMA 564   | Deep Learning                                                |
 
 
