@@ -10,7 +10,7 @@ title: "Teaching"
 
 | Semester       | Code      |     Course                                                   |
 | --------       | ------    | ------------------------------------------------------------ |
-| Spring 2023    | AMA 564   | Deep Learning (Scheduled)                                    |
+| Spring 2023    | AMA 564   | Deep Learning                                                |
 
 
 
@@ -21,7 +21,7 @@ title: "Teaching"
 | Semester       | Code       |     Course                                                 |
 | --------       | ------     | ---------------------------------------------------------- |
 | Spring 2022    | STAT 3210  | Statistical Techniques in Life Sciences                    |
-| Fall 2021		   | STAT 5107  | Discrete Data Analysis                                     |
+| Fall 2021		   | STAT 5107  | Discrete Data Analysis                                   |
 | Spring 2021    | STAT 5030  | Linear Models                                              |
 | Fall 2020      | STAT 5107  | Discrete Data Analysis                                     |
 | Spring 2020    | STAT 1011  | Introduction to Statistics                                 |
