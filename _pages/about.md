@@ -16,7 +16,7 @@ My research interests are in general statistical machine learning and nonparamet
 
 To contact me, click the “email” icon on the left panel.
 
-(BTW, here is my [GoogleSite](https://sites.google.com/view/shenguohao/about-me).)
+
 
 ---
 <a href='https://clustrmaps.com/site/1bqss'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=d3a50e&w=a&t=tt&d=GsvWNzRl5r8DoRdWKfjOWXDZrRGYfPHdhtlcaHLoIoc&co=ffffff&ct=808080'/></a>
