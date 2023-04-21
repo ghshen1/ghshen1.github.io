@@ -39,4 +39,5 @@ Service
 Reviewer for
 * Journal of the Royal Statistical Society: Series B
 * Journal of the American Statistical Association
+* Statistica Sinica
 * Computational Statistics & Data Analysis
