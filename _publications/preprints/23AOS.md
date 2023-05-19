@@ -1,5 +1,5 @@
 ---
-title: "(Preprint) Differentiable Neural Networks with RePU activation: with applications to score estimation and isotonic regression."
+title: " Differentiable Neural Networks with RePU activation: with applications to score estimation and isotonic regression."
 collection: publications
 permalink: /publication/23AOS
 date: 1999-01-11
