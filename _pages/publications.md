@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -17,6 +17,8 @@ author_profile: true
   {% include archive-single1.html %}
 {% endfor %}
 
+
+
 Service
 ======
 Reviewer for
@@ -24,3 +26,9 @@ Reviewer for
 * Journal of the American Statistical Association
 * Statistica Sinica
 * Computational Statistics & Data Analysis
+
+Invited Talks
+======
+* JCSDS 2023, July 2023; Beijing, China
+* ICSA International, July 2023; Hong Kong SAR, China
+* ICSA China, June 2023; Chengdu, China
