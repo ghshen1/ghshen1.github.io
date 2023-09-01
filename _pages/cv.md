@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* The Hong Kong Polytechnic University </br>
+* The Hong Kong Polytechnic University
 
   * Assistant Professor (2023/09 -- present)   
     
@@ -44,3 +44,9 @@ Reviewer for
 * Journal of the American Statistical Association
 * Statistica Sinica
 * Computational Statistics & Data Analysis
+
+Invited Talks
+======
+* JCSDS, July 2023; Beijing, China
+* ICSA International, July 2023; Hong Kong SAR, China
+* ICSA China, June 2023; Chengdu, China
