@@ -4,9 +4,7 @@ title: "Teaching"
 ---
 
 ## @The Hong Kong Polytechnic University
-
-
-### Lecturer	 
+ 
 
 | Semester       | Code      |     Course                                                   |
 | --------       | ------    | ------------------------------------------------------------ |
