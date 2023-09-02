@@ -13,8 +13,8 @@ title: "Teaching"
 
 
 
-## @The Chinese Univeristy of Hong Kong
-### Teaching Assistant
+## @The Chinese University of Hong Kong
+### As Teaching Assistant
 
 | Semester       | Code       |     Course                                                 |
 | --------       | ------     | ---------------------------------------------------------- |
