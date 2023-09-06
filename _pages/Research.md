@@ -29,7 +29,7 @@ Reviewer for
 
 Research Grants
 ======
-* RGC-GRF 15305523, awarded by the Research Grants Council, 2023-2025, Principal Investigator. Amount: HKD 661,347.
+* RGC-GRF 15305523, awarded by the Hong Kong Research Grants Council, 2023-2025, Principal Investigator. Amount: HKD 661,347.
     + Title: On differentiable neural networks: generalization, approximation, and applications to
 nonparametric gradient estimation
 
