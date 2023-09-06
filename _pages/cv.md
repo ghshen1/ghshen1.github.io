@@ -45,6 +45,13 @@ Reviewer for
 * Statistica Sinica
 * Computational Statistics & Data Analysis
 
+Research Grants
+======
+* RGC-GRF 15305523, awarded by the Hong Kong Research Grants Council, 2023-2025, Principal Investigator. Amount: HKD 661,347.
+    + Title: On differentiable neural networks: generalization, approximation, and applications to
+nonparametric gradient estimation
+
+
 Invited Talks
 ======
 * JCSDS, July 2023; Beijing, China
