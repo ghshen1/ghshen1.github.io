@@ -1,14 +1,14 @@
 ---
 title: "@The Hong Kong Polytechnic University"
 collection: teaching
-type: "Lecturer"
+type: "Course Instructor"
 permalink: /teaching/PolyU
-venue: "The Hong Kong Polytechninc Univeristy, Department of Applied Mathematics"
+venue: "The Hong Kong Polytechnic University, Department of Applied Mathematics"
 date: 2022-03-31
 location: "Hong Kong"
 ---
 
-### Lecturer	 
+### Course Instructor	 
 
 | Semester       | Code      |     Course                                                   |
 | --------       | ------    | ------------------------------------------------------------ |
