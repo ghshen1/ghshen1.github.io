@@ -43,6 +43,7 @@ Reviewer for
 * Journal of the Royal Statistical Society: Series B
 * Journal of the American Statistical Association
 * Statistica Sinica
+* Journal of Multivariate Analysis
 * Computational Statistics & Data Analysis
 
 Research Grants
