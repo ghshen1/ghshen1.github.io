@@ -8,6 +8,7 @@ title: "Teaching"
 
 | Semester       | Code      |     Course                                                   |
 | --------       | ------    | ------------------------------------------------------------ |
+| Spring 2024    | AMA 564   | Deep Learning                                                |
 | Spring 2023    | AMA 564   | Deep Learning                                                |
 
 
