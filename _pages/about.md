@@ -14,7 +14,7 @@ I am currently an Assistant Professor at the [Department of Applied Mathematics]
 
 My research interests lie in statistical machine learning and nonparametric statistics, with a focus on the foundations of deep learning including generalization, approximation, and perhaps optimization. Recently, I have been interested in deep reinforcement learning in both theory and practice.
 
-Openings are available for undergrad interns and research assistants/associates. Feel free to email your CV to me if you are interested in my research. 
+Openings are available for undergrad interns/student helpers and research assistants/associates. Feel free to email your CV to me if you are interested in my research. 
 
 
 
