@@ -66,5 +66,5 @@ Invited Talks
 
 Honors
 ======
-*2024 John Aitchison Prize in Statistics
-*2023 Itarle Scholarship
+* 2024 John Aitchison Prize in Statistics
+* 2023 Itarle Scholarship
