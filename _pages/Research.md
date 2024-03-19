@@ -45,3 +45,8 @@ Invited Talks
 * JCSDS 2023, July 2023; Beijing, China
 * ICSA International, July 2023; Hong Kong SAR, China
 * ICSA China, June 2023; Chengdu, China
+
+Honors
+======
+* 2024 John Aitchison Prize in Statistics
+* 2023 Itarle Scholarship
