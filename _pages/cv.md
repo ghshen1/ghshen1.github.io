@@ -68,3 +68,6 @@ Honors
 ======
 * 2024 John Aitchison Prize in Statistics
 * 2023 Itarle Scholarship
+* 2017 National Scholarship, China
+* 2016 1st Prize in The Chinese Mathematics Competitions
+* 2015 1st Prize in The Chinese Mathematics Competitions
