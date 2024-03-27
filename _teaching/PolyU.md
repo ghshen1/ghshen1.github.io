@@ -10,8 +10,8 @@ location: "Hong Kong"
 
 ### Course Instructor	 
 
-| Semester       | Code      |     Course                                                   |
-| --------       | ------    | ------------------------------------------------------------ |
-| Spring 2023    | AMA 564   | Deep Learning                                                |
+| Semester       | Code      |     Course                                                   |Evaluation|
+| --------       | ------    | ------------------------------------------------------------ |----------|
+| Spring 2023    | AMA 564   | Deep Learning                                                |4.8/50    |
 
 
