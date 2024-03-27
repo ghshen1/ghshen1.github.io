@@ -18,7 +18,7 @@ My research interests lie in statistical machine learning and nonparametric stat
 Openings are available for undergrad interns/student helpers and research assistants/associates. Feel free to email your CV to me if you are interested in my research. 
 --> 
 
-
+Recently, I had the honor of receiving the 2024 John Aitchison Prize in Statistics from the Hong Kong Statistical Society (HKSS) in recognition of the excellence of my PhD research in Statistics and deep learning. This achievement is highlighted in the news published by the [Royal Statistical Society (RSS)](https://rss.org.uk/news-publication/news-publications/2024/general-news/dr-guohao-shen-wins-2024-john-aitchison-prize-in-s/) and the [Hong Kong Statistical Society (HKSS)](https://www.hkss.org.hk/index.php/events/john-aitchison-prize-in-statistics).
 
 
 ---
