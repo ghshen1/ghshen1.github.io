@@ -6,10 +6,10 @@ title: "Teaching"
 ## @The Hong Kong Polytechnic University
  
 
-| Semester       | Code      |     Course                                                   |
-| --------       | ------    | ------------------------------------------------------------ |
-| Spring 2024    | AMA 564   | Deep Learning                                                |
-| Spring 2023    | AMA 564   | Deep Learning                                                |
+| Semester       | Code      |     Course                                                   |Evaluation|
+| --------       | ------    | ------------------------------------------------------------ |----------|
+| Spring 2024    | AMA 564   | Deep Learning                                                |     -    |
+| Spring 2023    | AMA 564   | Deep Learning                                                | 4.8/5.0 (Top 10% within Faculty) |
 
 
 
