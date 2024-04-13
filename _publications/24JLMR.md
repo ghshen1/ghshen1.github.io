@@ -1,7 +1,7 @@
 ---
 title: "Nonparametric Estimation of Non-Crossing Quantile Regression Process with Deep ReQU Neural Networks"
 collection: publications
-permalink: /publication/22JMLR
+permalink: /publication/24JMLR
 date: 2024-04-10
 venue: 'Journal of Machine Learning Research'
 link: 'https://jmlr.org/papers/v25/22-0488.html'
