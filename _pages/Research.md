@@ -38,6 +38,8 @@ nonparametric gradient estimation
 
 Invited Talks
 ======
+* 2nd China Youth Statistician Forum, April 2024; Xuzhou, China
+* School of STAT, ECNU, April 2024; Shanghai, China
 * IMS-APRM 2024, January 2024; Melbourn, Australia
 * Symposium on Data Science and Risk Analytics 2023 cum CUHK 60th Anniversary Alumni Homecoming, December 2023; Hong Kong SAR, China
 * 9th National Forum for Young Statisticians at SUFE, December 2023; Shanghai, China
