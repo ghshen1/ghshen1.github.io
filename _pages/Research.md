@@ -18,6 +18,19 @@ author_profile: true
 {% endfor %}
 
 
+Research Grants
+======
+* RGC-GRF 15305523, awarded by the Hong Kong Research Grants Council, 2023-2025, Principal Investigator. Amount: HKD 661,347.
+    + Title: On differentiable neural networks: generalization, approximation, and applications to
+nonparametric gradient estimation
+
+Honors
+======
+* 2024 John Aitchison Prize in Statistics
+* 2023 Itarle Scholarship
+* 2017 National Scholarship, China
+* 2016 1st Prize in The Chinese Mathematics Competitions
+* 2015 1st Prize in The Chinese Mathematics Competitions
 
 Service
 ======
@@ -28,13 +41,6 @@ Reviewer for
 * Statistica Sinica
 * Journal of Multivariate Analysis
 * Computational Statistics & Data Analysis
-
-Research Grants
-======
-* RGC-GRF 15305523, awarded by the Hong Kong Research Grants Council, 2023-2025, Principal Investigator. Amount: HKD 661,347.
-    + Title: On differentiable neural networks: generalization, approximation, and applications to
-nonparametric gradient estimation
-
 
 Invited Talks
 ======
@@ -47,11 +53,3 @@ Invited Talks
 * JCSDS 2023, July 2023; Beijing, China
 * ICSA International, July 2023; Hong Kong SAR, China
 * ICSA China, June 2023; Chengdu, China
-
-Honors
-======
-* 2024 John Aitchison Prize in Statistics
-* 2023 Itarle Scholarship
-* 2017 National Scholarship, China
-* 2016 1st Prize in The Chinese Mathematics Competitions
-* 2015 1st Prize in The Chinese Mathematics Competitions
