@@ -8,8 +8,8 @@ title: "Teaching"
 
 | Semester       | Code      |     Course                                                   |Evaluation|
 | --------       | ------    | ------------------------------------------------------------ |----------|
-| Spring 2024    | AMA 564   | Deep Learning (Class A)                                      | 4.7/5.0  |
-| Spring 2024    | AMA 564   | Deep Learning (Class B)                                      | 4.6/5.0  |
+| Spring 2024    | AMA 564   | Deep Learning (Class A)                                      | 4.7/5.0 (Top 10% within Faculty) |
+| Spring 2024    | AMA 564   | Deep Learning (Class B)                                      | 4.6/5.0 (Top 10% within Faculty) |
 | Spring 2023    | AMA 564   | Deep Learning                                                | 4.8/5.0 (Top 10% within Faculty) |
 
 
