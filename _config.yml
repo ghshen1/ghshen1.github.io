@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Guohao Shen"
 title_separator          : "-"
-name                     : &name "Guohao Shen (申国豪)"
+name                     : &name "Guohao Shen"
 description              : &description "Machine Learning, Statistics"
 url                      : https://ghshen1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
