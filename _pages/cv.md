@@ -46,6 +46,7 @@ nonparametric gradient estimation
 
 Honors
 ======
+* 2024 Junior Researcher Award Honorable Mention of ICSA China Conference
 * 2024 John Aitchison Prize in Statistics
 * 2023 Itarle Scholarship
 * 2017 National Scholarship, China
@@ -59,11 +60,13 @@ Reviewer for
 * Journal of the American Statistical Association
 * Journal of Machine Learning Research
 * Statistica Sinica
+* Statistics and Computing
 * Journal of Multivariate Analysis
 * Computational Statistics & Data Analysis
 
 Invited Talks
 ======
+* ICSA China Conference 2024; Wuhan, China
 * 2nd China Youth Statistician Forum, April 2024; Xuzhou, China
 * School of STAT, ECNU, April 2024; Shanghai, China
 * IMS-APRM 2024, January 2024; Melbourn, Australia
