@@ -27,7 +27,7 @@ News:
 
 * 2024-06-29: I received the Junior Researcher Award Honorable Mention of the 2024 ICSA China Conference for the paper entitled [Differentiable Neural Networks with RePU Activation: with Applications to Score Estimation and Isotonic Regression](https://arxiv.org/abs/2305.00608).
 
-* 2024-05-02: My single-authored paper [Exploring the Complexity of Deep Neural Networks through Functional Equivalence](https://arxiv.org/abs/2305.11417) has been accepted in the 41st International Conference on Machine Learning (ICML 2024).
+* 2024-05-02: My single-authored paper [Exploring the Complexity of Deep Neural Networks through Functional Equivalence](https://openreview.net/forum?id=QgMqvxvWpX) has been accepted in the 41st International Conference on Machine Learning (ICML 2024).
 
 * 2024-03-19: I received the 2024 John Aitchison Prize in Statistics from the Hong Kong Statistical Society (HKSS) in recognition of the excellence of my PhD research in Statistics and deep learning. This achievement is highlighted in the news published by the [Royal Statistical Society (RSS)](https://rss.org.uk/news-publication/news-publications/2024/general-news/dr-guohao-shen-wins-2024-john-aitchison-prize-in-s/) and the [Hong Kong Statistical Society (HKSS)](https://www.hkss.org.hk/index.php/events/john-aitchison-prize-in-statistics).
 
