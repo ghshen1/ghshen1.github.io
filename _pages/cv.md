@@ -66,6 +66,7 @@ Reviewer for
 
 Invited Talks
 ======
+* JCSDS 2024, July 2024; Kunming, China
 * ICSA China Conference 2024; Wuhan, China
 * 2nd China Youth Statistician Forum, April 2024; Xuzhou, China
 * School of STAT, ECNU, April 2024; Shanghai, China
