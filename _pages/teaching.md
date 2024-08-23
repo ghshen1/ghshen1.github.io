@@ -8,6 +8,7 @@ title: "Teaching"
 
 | Semester       | Code      |     Course                                                   |Evaluation|
 | --------       | ------    | ------------------------------------------------------------ |----------|
+| Fall   2024    | AMA 2601/2634  | Statistics for Finance Analytics/Introduction to Statistics      | ---      |
 | Spring 2024    | AMA 564   | Deep Learning (Class A)                                      | 4.7/5.0 (Top 10% within Faculty) |
 | Spring 2024    | AMA 564   | Deep Learning (Class B)                                      | 4.6/5.0 (Top 10% within Faculty) |
 | Spring 2023    | AMA 564   | Deep Learning                                                | 4.8/5.0 (Top 10% within Faculty) |
@@ -21,7 +22,7 @@ title: "Teaching"
 | Semester       | Code       |     Course                                                 |
 | --------       | ------     | ---------------------------------------------------------- |
 | Spring 2022    | STAT 3210  | Statistical Techniques in Life Sciences                    |
-| Fall 2021		   | STAT 5107  | Discrete Data Analysis                                   |
+| Fall 2021		    | STAT 5107  | Discrete Data Analysis                                     |
 | Spring 2021    | STAT 5030  | Linear Models                                              |
 | Fall 2020      | STAT 5107  | Discrete Data Analysis                                     |
 | Spring 2020    | STAT 1011  | Introduction to Statistics                                 |
