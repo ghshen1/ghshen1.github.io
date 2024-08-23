@@ -46,6 +46,7 @@ Reviewer for
 
 Invited Talks
 ======
+* Math Machine Learning Seminar(Online), MPI MIS + UCLA, August 2024;
 * JCSDS 2024, July 2024; Kunming, China
 * ICSA China Conference 2024; Wuhan, China
 * 2nd China Youth Statistician Forum, April 2024; Xuzhou, China
