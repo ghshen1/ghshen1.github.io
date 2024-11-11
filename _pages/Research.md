@@ -43,9 +43,11 @@ Reviewer for
 * Statistics and Computing
 * Journal of Multivariate Analysis
 * Computational Statistics & Data Analysis
+* International Conference on Learning Representations
 
 Invited Talks
 ======
+* 13th National Conference on Probability and Statistics, November 2024; Xiamen, China
 * Math Machine Learning Seminar(Online), MPI MIS + UCLA, August 2024;
 * JCSDS 2024, July 2024; Kunming, China
 * ICSA China Conference 2024; Wuhan, China
