@@ -7,9 +7,10 @@ title: "Teaching"
  
 
 | Semester       | Code      |     Course                                                   |Evaluation|
+| --------       | ------    | ----------------------------------------------------------   |----------|
 | Spring 2025    | BSE2610   | Data Science and Programming for Buildings                   |----------|
 | Spring 2025    | AMA2691   | Probability and Distributions                                |----------|
-| Fall   2024    | AMA 2601/2634  | Introduction to Statistics                              | 4.5/5.0 (Top 15% within Faculty)  |
+| Fall   2024    | AMA 2601/2634  | Introduction to Statistics                              | 4.5/5.0 (Top 15% within Faculty) |
 | Spring 2024    | AMA 564   | Deep Learning (Class A)                                      | 4.7/5.0 (Top 10% within Faculty) |
 | Spring 2024    | AMA 564   | Deep Learning (Class B)                                      | 4.6/5.0 (Top 10% within Faculty) |
 | Spring 2023    | AMA 564   | Deep Learning                                                | 4.8/5.0 (Top 10% within Faculty) |
