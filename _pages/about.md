@@ -24,8 +24,9 @@ Openings are available for undergrad interns/student helpers and research assist
 ---
 
 News:
+* 2025-12-16: Our paper titled [Conformal Set-based Human-AI Complementarity with Multiple Experts](https://aamas2025.org/index.php/conference/program/accepted-papers/), co-authored with my research assistant, Mr. Helbert Paat, has been accepted as a full paper (ID 1265) in the Main Technical Track at AAMAS 2025.
 
-* 2024-06-29: I received the Junior Researcher Award Honorable Mention of the 2024 ICSA China Conference for the paper entitled [Differentiable Neural Networks with RePU Activation: with Applications to Score Estimation and Isotonic Regression](https://arxiv.org/abs/2305.00608).
+* 2024-06-29: I received the Junior Researcher Award Honorable Mention of the 2024 ICSA China Conference for the paper titled [Differentiable Neural Networks with RePU Activation: with Applications to Score Estimation and Isotonic Regression](https://arxiv.org/abs/2305.00608).
 
 * 2024-05-02: My single-authored paper [Exploring the Complexity of Deep Neural Networks through Functional Equivalence](https://openreview.net/forum?id=QgMqvxvWpX) has been accepted in the 41st International Conference on Machine Learning (ICML 2024).
 
