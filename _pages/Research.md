@@ -24,6 +24,9 @@ Research Grants
     + Title: On differentiable neural networks: generalization, approximation, and applications to
 nonparametric gradient estimation
 
+* MOST National Key R&D Program , awarded by Ministry of Science and Technology of the People's Republic of China, Co - Investigator. Total Amount: RMB 3,000,0000.
+    + Title: Deep Learning-Driven Big Data Association Analysis: Methods, Theories and Applications.
+
 Honors
 ======
 * 2024 Junior Researcher Award Honorable Mention of ICSA China Conference
