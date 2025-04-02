@@ -25,7 +25,7 @@ Openings are available for undergrad interns/student helpers and research assist
 
 News:
 
-* 2025-04-01: I am happy to receive the Best Teacher Award (2024/25) from the Department of Applied Mathematics, The Hong Kong Polytechnic University.
+* 2025-04-01: I am delighted to receive the Best Teacher Award (2024/25) from the Department of Applied Mathematics at The Hong Kong Polytechnic University, in recognition of my dedication and excellence to teaching.
 
 * 2024-12-19: I am honored to have successfully received the funding for the Young Scientists Project of the 2024 MOST National Key R&D Program in the field of "Mathematics and Applied Research" as a Co-Investigator (CO-I). The title of our project is "Deep Learning-Driven Big Data Association Analysis: Methods, Theories and Applications".
 
