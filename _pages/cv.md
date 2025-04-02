@@ -49,6 +49,7 @@ nonparametric gradient estimation
 
 Honors
 ======
+* 2025 Best Teacher Award of AMA, The HK PolyU
 * 2024 Junior Researcher Award Honorable Mention of ICSA China Conference
 * 2024 John Aitchison Prize in Statistics
 * 2023 Itarle Scholarship
