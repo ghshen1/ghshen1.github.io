@@ -4,7 +4,8 @@ title: "Teaching"
 ---
 
 ## @The Hong Kong Polytechnic University
- 
+
+* 2025-04-01: I am delighted to receive the Best Teacher Award (2024/25) from the Department of Applied Mathematics at The Hong Kong Polytechnic University, in recognition of my dedication and excellence to teaching.
 
 | Semester       | Code      |     Course                                                   |Evaluation|
 | --------       | ------    | ----------------------------------------------------------   |----------|
