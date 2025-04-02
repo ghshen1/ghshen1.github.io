@@ -24,6 +24,9 @@ Openings are available for undergrad interns/student helpers and research assist
 ---
 
 News:
+
+* 2025-04-01: I am happy to receive the Best Teacher Award (2024/25) from the Department of Applied Mathematics, The Hong Kong Polytechnic University.
+
 * 2024-12-19: I am honored to have successfully received the funding for the Young Scientists Project of the 2024 MOST National Key R&D Program in the field of "Mathematics and Applied Research" as a Co-Investigator (CO-I). The title of our project is "Deep Learning-Driven Big Data Association Analysis: Methods, Theories and Applications".
 
 * 2024-12-16: Our paper titled [Conformal Set-based Human-AI Complementarity with Multiple Experts](https://aamas2025.org/index.php/conference/program/accepted-papers/), co-authored with my research assistant, Mr. Helbert Paat, has been accepted as a full paper (ID 1265) in the Main Technical Track at AAMAS 2025.
