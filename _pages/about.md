@@ -13,7 +13,9 @@ Welcome to my homepage!
 I am currently an Assistant Professor at the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests lie in statistical machine learning and nonparametric statistics, focusing on the foundations of deep learning including generalization, approximation, and perhaps optimization. I have recently been interested in deep reinforcement learning in theory and application.
 
 
-An opending PhD position for 2026 Fall is available. Feel free to email your CV to me if you are interested in my research. [Download Brochure Here](http://ghshen1.github.io/files/PhDRecruitment.pdf).
+An opending PhD position for 2026 Fall is available. [A Brochure with detailed information can be downloaded here.](http://ghshen1.github.io/files/PhDRecruitment.pdf). Please have a look at the brochure and feel free to email your CV to me if you are interested in my research.
+
+
 
 <!-- 
 Openings are available for undergrad interns/student helpers and research assistants/associates. Feel free to email your CV to me if you are interested in my research. 
