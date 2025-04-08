@@ -29,6 +29,8 @@ Openings are available for undergrad interns/student helpers and research assist
 
 News:
 
+* 2025-04-08: Our paper titled [Deep Mutual Density Ratio Estimation with Bregman Divergence and its Applications](ghshen1.github.io), co-authored with Dongxiao Han, Siming Zheng, Xinyuan Song, Liuquan Sun and Jian Huang, has been accepted by *Journal of American Statistical Association*.
+
 * 2025-04-01: I am delighted to receive the Best Teacher Award (2024/25) from the Department of Applied Mathematics at The Hong Kong Polytechnic University, in recognition of my dedication and excellence to teaching.
 
 * 2024-12-19: I am honored to have received the funding for the Young Scientists Project of the [2024 MOST National Key R&D Program in the field of "Mathematics and Applied Research"](https://mp.weixin.qq.com/s/ObuH83LIfZE7E2fWVXXMBA) as a Co-Investigator (CO-I). The title of our project is "Deep Learning-Driven Big Data Association Analysis: Methods, Theories and Applications".
