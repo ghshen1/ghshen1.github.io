@@ -38,15 +38,20 @@ Honors
 
 Service
 ======
+Associate Editor for
+* Journal of Forecasting
+  
 Reviewer for
 * Journal of the Royal Statistical Society: Series B
 * Journal of the American Statistical Association
 * Journal of Machine Learning Research
+* Bernoulli
 * Statistica Sinica
 * Statistics and Computing
 * Journal of Multivariate Analysis
 * Computational Statistics & Data Analysis
-* International Conference on Learning Representations
+* International Conference on Learning Representations (ICML)
+* Neural Information Processing Systems (NeurIPS)
 
 Invited Talks
 ======
