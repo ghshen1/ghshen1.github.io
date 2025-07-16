@@ -35,7 +35,7 @@ News:
 
 * 2024-12-19: I am honored to have received the funding for the Young Scientists Project of the [2024 MOST National Key R&D Program in the field of "Mathematics and Applied Research"](https://mp.weixin.qq.com/s/ObuH83LIfZE7E2fWVXXMBA) as a Co-Investigator (CO-I). The title of our project is "Deep Learning-Driven Big Data Association Analysis: Methods, Theories and Applications".
 
-* 2024-12-16: Our paper titled [Conformal Set-based Human-AI Complementarity with Multiple Experts](https://aamas2025.org/index.php/conference/program/accepted-papers/), co-authored with my research assistant, Mr. Helbert Paat, has been accepted as a full paper (ID 1265) in the Main Technical Track at AAMAS 2025.
+* 2024-12-16: Our paper titled [Conformal Set-based Human-AI Complementarity with Multiple Experts](https://dl.acm.org/doi/10.5555/3709347.3743792), co-authored with my research assistant, Mr. Helbert Paat, has been accepted as a full paper (ID 1265) in the Main Technical Track at AAMAS 2025.
 
 * 2024-06-29: I received the Junior Researcher Award Honorable Mention of the 2024 ICSA China Conference for the paper titled [Differentiable Neural Networks with RePU Activation: with Applications to Score Estimation and Isotonic Regression](https://arxiv.org/abs/2305.00608).
 
