@@ -29,6 +29,8 @@ Openings are available for undergrad interns/student helpers and research assist
 
 News:
 
+* 2025-07-28: Our paper titled [Wasserstein generative regression](https://doi.org/10.1093/jrsssb/qkaf053), co-authored with Shanshan Song, Tong Wang, Jian Huang and Yuanyuan Lin, has been accepted by *Journal of the Royal Statistical Society, Series B*.
+
 * 2025-04-08: Our paper titled [Deep Mutual Density Ratio Estimation with Bregman Divergence and its Applications](https://doi.org/10.1080/01621459.2025.2507437), co-authored with Dongxiao Han, Siming Zheng, Xinyuan Song, Liuquan Sun and Jian Huang, has been accepted by *Journal of American Statistical Association*.
 
 * 2025-04-01: I am delighted to receive the [Best Teacher Award (2024/25)](https://ghshen1.github.io/images/Best_teacher_award1.jpg) from the Department of Applied Mathematics at The Hong Kong Polytechnic University, in recognition of my dedication and excellence to teaching.
