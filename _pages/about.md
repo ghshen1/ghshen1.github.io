@@ -10,10 +10,10 @@ redirect_from:
 
 Welcome to my homepage! 
 
-I am currently an Assistant Professor at the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests lie in statistical machine learning and nonparametric statistics, focusing on the foundations of deep learning including generalization, approximation, and perhaps optimization. I have recently been interested in deep reinforcement learning in theory and application.
+I am currently an Assistant Professor at the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests lie in statistical machine learning and nonparametric statistics, focusing on the foundations of deep learning, including generalization, approximation, and optimization. I have recently also been interested in the theory and application of deep reinforcement learning.
 
 
-An opending PhD position for 2026 Fall is available. [A Brochure with detailed information can be downloaded here.](http://ghshen1.github.io/files/PhDRecruitment.pdf). Please have a look at the brochure and feel free to email your CV to me if you are interested in my research.
+An opening PhD position for the 2026 Fall is available. [A Brochure with detailed information can be downloaded here.](http://ghshen1.github.io/files/PhDRecruitment.pdf). Please have a look at the brochure and feel free to email your CV and transcript to me if you are interested in my research.
 
 
 
@@ -35,7 +35,7 @@ News:
 
 * 2025-04-08: Our paper titled [Deep Mutual Density Ratio Estimation with Bregman Divergence and its Applications](https://doi.org/10.1080/01621459.2025.2507437), co-authored with Dongxiao Han, Siming Zheng, Xinyuan Song, Liuquan Sun and Jian Huang, has been accepted by *Journal of American Statistical Association*.
 
-* 2025-04-01: I am delighted to receive the [Best Teacher Award (2024/25)](https://ghshen1.github.io/images/Best_teacher_award1.jpg) from the Department of Applied Mathematics at The Hong Kong Polytechnic University, in recognition of my dedication and excellence to teaching.
+* 2025-04-01: I am delighted to receive the [Best Teacher Award (2024/25)](https://ghshen1.github.io/images/Best_teacher_award1.jpg) from the Department of Applied Mathematics at The Hong Kong Polytechnic University, in recognition of my dedication and excellence in teaching.
 
 * 2024-12-19: I am honored to have received the funding for the Young Scientists Project of the [2024 MOST National Key R&D Program in the field of "Mathematics and Applied Research"](https://mp.weixin.qq.com/s/ObuH83LIfZE7E2fWVXXMBA) as a Co-Investigator (CO-I). The title of our project is "Deep Learning-Driven Big Data Association Analysis: Methods, Theories and Applications".
 
