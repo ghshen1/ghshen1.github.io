@@ -30,6 +30,8 @@ Openings are available for undergrad interns/student helpers and research assist
 
 News:
 
+* 2025-11-24: Our paper titled "Learning Guarantee of Reward Modeling Using Deep Neural Networks", co-authored with Yuanhang Luo, Yeheng Ge, and Ruijian Han, has been accepted by *SIGKDD 2026 Research Track*.
+  
 * 2025-07-28: Our paper titled [Wasserstein generative regression](https://doi.org/10.1093/jrsssb/qkaf053), co-authored with Shanshan Song, Tong Wang, Jian Huang and Yuanyuan Lin, has been accepted by *Journal of the Royal Statistical Society, Series B*.
 
 * 2025-06-07: Our paper titled [Deep Neural Newsvendor](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582188), co-authored with Jinhui Han and Ming Hu, has been accepted by *Management Science*.
