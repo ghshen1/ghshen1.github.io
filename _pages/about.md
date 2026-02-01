@@ -32,11 +32,11 @@ News:
 
 * 2026-02-01: Our paper titled "Error Analysis for Deep Density-Ratio Estimation with Bregman Divergence", co-authored with Siming Zheng, Jian Huang, and Yuanyuan Lin, has been accepted by *Journal of Machine Learning Research*.
 
-* 2025-11-24: Our paper titled "Learning Guarantee of Reward Modeling Using Deep Neural Networks", co-authored with Yuanhang Luo, Yeheng Ge, and Ruijian Han, has been accepted by *SIGKDD 2026 Research Track*.
+* 2025-11-24: Our paper titled [Learning Guarantee of Reward Modeling Using Deep Neural Networks](https://arxiv.org/abs/2505.06601), co-authored with Yuanhang Luo, Yeheng Ge, and Ruijian Han, has been accepted by *SIGKDD 2026 Research Track*.
   
 * 2025-07-28: Our paper titled [Wasserstein generative regression](https://doi.org/10.1093/jrsssb/qkaf053), co-authored with Shanshan Song, Tong Wang, Jian Huang and Yuanyuan Lin, has been accepted by *Journal of the Royal Statistical Society, Series B*.
 
-* 2025-06-07: Our paper titled [Deep Neural Newsvendor](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582188), co-authored with Jinhui Han and Ming Hu, has been accepted by *Management Science*.
+* 2025-06-07: Our paper titled [Deep Neural Newsvendor](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03157), co-authored with Jinhui Han and Ming Hu, has been accepted by *Management Science*.
 
 * 2025-04-08: Our paper titled [Deep Mutual Density Ratio Estimation with Bregman Divergence and its Applications](https://doi.org/10.1080/01621459.2025.2507437), co-authored with Dongxiao Han, Siming Zheng, Xinyuan Song, Liuquan Sun and Jian Huang, has been accepted by *Journal of American Statistical Association*.
 
