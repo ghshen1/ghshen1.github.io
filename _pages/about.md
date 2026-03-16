@@ -30,7 +30,9 @@ Openings are available for undergrad interns/student helpers and research assist
 
 News:
 
-* 2026-02-01: Our paper titled "Error Analysis for Deep Density-Ratio Estimation with Bregman Divergence", co-authored with Siming Zheng, Jian Huang, and Yuanyuan Lin, has been accepted by *Journal of Machine Learning Research*.
+* 2026-03-09: Our paper titled "Generative Semi-Supervised Classification", co-authored with Tong Wang, Shanshan Song, Jian Huang, and Yuanyuan Lin, has been accepted by *Electronic Journal of Statistics*.
+
+* 2026-02-01: Our paper titled [Error Analysis for Deep Density-Ratio Estimation with Bregman Divergence](http://www.jmlr.org/papers/v27/23-0425.html), co-authored with Siming Zheng, Jian Huang, and Yuanyuan Lin, has been accepted by *Journal of Machine Learning Research*.
 
 * 2025-11-24: Our paper titled [Learning Guarantee of Reward Modeling Using Deep Neural Networks](https://arxiv.org/abs/2505.06601), co-authored with Yuanhang Luo, Yeheng Ge, and Ruijian Han, has been accepted by *SIGKDD 2026 Research Track*.
   
