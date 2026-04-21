@@ -30,7 +30,7 @@ Openings are available for undergrad interns/student helpers and research assist
 
 News:
 
-* 2026-03-09: Our paper titled "Generative Semi-Supervised Classification", co-authored with Tong Wang, Shanshan Song, Jian Huang, and Yuanyuan Lin, has been accepted by *Electronic Journal of Statistics*.
+* 2026-03-09: Our paper titled [Generative Semi-Supervised Classification](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-20/issue-1/Generative-semi-supervised-classification/10.1214/26-EJS2507.full), co-authored with Tong Wang, Shanshan Song, Jian Huang, and Yuanyuan Lin, has been accepted by *Electronic Journal of Statistics*.
 
 * 2026-02-01: Our paper titled [Error Analysis for Deep Density-Ratio Estimation with Bregman Divergence](http://www.jmlr.org/papers/v27/23-0425.html), co-authored with Siming Zheng, Jian Huang, and Yuanyuan Lin, has been accepted by *Journal of Machine Learning Research*.
 
