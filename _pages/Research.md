@@ -55,9 +55,17 @@ Reviewer for
 
 Invited Talks
 ======
-* 13th National Conference on Probability and Statistics, November 2024; Xiamen, China
+* Joint Conference on Statistics and Data science in China 2026, July 2026; Guiyang, China
+* Institute of Mathematical Statistics Asia Pacific Rim Meeting 2026, June 2026; Hong Kong SAR, China
+* International Conference on Frontiers of Data Science, May 2026; Hangzhou, China
+* FBA-APAEM Joint Seminar Series, March 2026; Faculty of Business Administration, University of Macau
+* Gouxionghui, December 2025;
+* Econometrics and Statistics (EcoSta2025), August 2025; Tokyo, Japan
+* Joint Conference on Statistics and Data science in China 2025, July 2025; Hangzhou, China
+* ICSA China Conference, June 2025; Zhuhai, China
+* 13th National Conference on Probability and Statistics, November 2025; Xiamen, China
 * Math Machine Learning Seminar(Online), MPI MIS + UCLA, August 2024;
-* JCSDS 2024, July 2024; Kunming, China
+* Joint Conference on Statistics and Data science in China 2024, July 2024; Kunming, China
 * ICSA China Conference 2024; Wuhan, China
 * 2nd China Youth Statistician Forum, April 2024; Xuzhou, China
 * School of STAT, ECNU, April 2024; Shanghai, China
