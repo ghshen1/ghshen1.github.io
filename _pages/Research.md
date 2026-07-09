@@ -45,6 +45,7 @@ Reviewer for
 * Journal of the Royal Statistical Society: Series B
 * Journal of the American Statistical Association
 * Journal of Machine Learning Research
+* Operations Research
 * Bernoulli
 * Statistica Sinica
 * Statistics and Computing
