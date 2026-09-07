@@ -29,6 +29,7 @@ Openings are available for undergrad interns/student helpers and research assist
 ---
 
 News:
+* 2026-06-30: I am delighted to have received the funding for the Early Career Scheme from Hong Kong [Research Grants Council](https://www.ugc.edu.hk/eng/rgc/) as Principal Investigator (PI). The title of our project is "Symmetries in Deep Learning with Applications to Optimization and Communication-Efficient Distributed Learning".
 
 * 2026-03-09: Our paper titled [Generative Semi-Supervised Classification](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-20/issue-1/Generative-semi-supervised-classification/10.1214/26-EJS2507.full), co-authored with Tong Wang, Shanshan Song, Jian Huang, and Yuanyuan Lin, has been accepted by *Electronic Journal of Statistics*.
 
