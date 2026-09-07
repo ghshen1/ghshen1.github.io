@@ -9,6 +9,7 @@ title: "Teaching"
 
 | Semester       | Code      |     Course                                                   |
 | --------       | ------    | ----------------------------------------------------------   |
+| Fall   2026    | AMA 2634  | Introduction to Statistics                                   | 
 | Fall   2025    | AMA 2634  | Introduction to Statistics                                   | 
 | Spring 2025    | BSE 2610  | Data Science and Programming for Buildings                   |
 | Spring 2025    | AMA 2691  | Probability and Distributions                                |
