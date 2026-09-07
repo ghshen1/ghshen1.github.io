@@ -20,6 +20,9 @@ author_profile: true
 
 Research Grants
 ======
+* RGC-ECS 25309326, awarded by the Hong Kong Research Grants Council, 2027-2029, Principal Investigator. Amount: HKD 383,191.
+    + Title: Symmetries in Deep Learning with Applications to Optimization and Communication-Efficient Distributed Learning
+      
 * RGC-GRF 15305523, awarded by the Hong Kong Research Grants Council, 2023-2025, Principal Investigator. Amount: HKD 661,347.
     + Title: On differentiable neural networks: generalization, approximation, and applications to
 nonparametric gradient estimation
